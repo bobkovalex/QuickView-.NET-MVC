@@ -1,5 +1,5 @@
 # QuickView .NET MVC Sample
-###### version 18.4.0
+###### version 1.0.0
 
 
 ## System Requirements
