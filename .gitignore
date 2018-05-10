@@ -1,0 +1,7 @@
+/.vs
+/packages
+/src/Web.Release.config
+/src/bin
+/src/obj
+/src/QuickView.csproj.user
+/src/Web.Debug.config
